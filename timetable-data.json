@@ -1,0 +1,525 @@
+{
+  "Po": {
+    "1": [
+      {
+        "lessonFirst": true,
+        "room": "28",
+        "teacher": "WE",
+        "teacherName": "David Weber",
+        "subject": "TI",
+        "subjectName": "Teoretická informatika",
+        "class": "C3c"
+      }
+    ],
+    "2": [
+      {
+        "lessonFirst": true,
+        "room": "28",
+        "teacher": "BC",
+        "teacherName": "Lucie Brčáková",
+        "subject": "EK",
+        "subjectName": "Ekonomika",
+        "class": "C3c"
+      }
+    ],
+    "3": [
+      {
+        "room": "TV",
+        "teacher": "KU",
+        "teacherName": "Dušan Kuchařík",
+        "subject": "TV",
+        "subjectName": "Tělesná výchova",
+        "class": "C3c"
+      }
+    ],
+    "4": [
+      {
+        "lessonFirst": true,
+        "room": "17b",
+        "teacher": "MO",
+        "teacherName": "Jan Molič",
+        "subject": "WA",
+        "subjectName": "Webové aplikace",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19c",
+        "teacher": "KA",
+        "teacherName": "Ivana Kantnerová",
+        "subject": "DS",
+        "subjectName": "Databázové systémy",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "5": [
+      {
+        "lessonFirst": true,
+        "room": "17b",
+        "teacher": "MO",
+        "teacherName": "Jan Molič",
+        "subject": "WA",
+        "subjectName": "Webové aplikace",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19c",
+        "teacher": "KA",
+        "teacherName": "Ivana Kantnerová",
+        "subject": "DS",
+        "subjectName": "Databázové systémy",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "6": [
+      {
+        "lessonFirst": true,
+        "room": "5b",
+        "teacher": "KN",
+        "teacherName": "Marie Kmoníčková",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "2/2"
+      },
+      {
+        "room": "28",
+        "teacher": "HS",
+        "teacherName": "Simona Hemžalová",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "1/2"
+      }
+    ],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "Út": {
+    "1": [
+      {
+        "lessonFirst": true,
+        "room": "5b",
+        "teacher": "KN",
+        "teacherName": "Marie Kmoníčková",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "2/2"
+      },
+      {
+        "room": "5a",
+        "teacher": "HS",
+        "teacherName": "Simona Hemžalová",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "1/2"
+      }
+    ],
+    "2": [
+      {
+        "room": "28",
+        "teacher": "RE",
+        "teacherName": "Alena Reichlová",
+        "subject": "PV",
+        "subjectName": "Programové vybavení",
+        "class": "C3c"
+      }
+    ],
+    "3": [
+      {
+        "room": "28",
+        "teacher": "HE",
+        "teacherName": "Jan Hehl",
+        "subject": "C",
+        "subjectName": "Český jazyk a literatura",
+        "class": "C3c"
+      }
+    ],
+    "4": [
+      {
+        "room": "28",
+        "teacher": "MS",
+        "teacherName": "Lukáš Masopust",
+        "subject": "WA",
+        "subjectName": "Webové aplikace",
+        "class": "C3c"
+      }
+    ],
+    "5": [],
+    "6": [
+      {
+        "room": "8a",
+        "teacher": "MO",
+        "teacherName": "Jan Molič",
+        "subject": "PSS",
+        "subjectName": "Počítačové systémy a sítě",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19b",
+        "teacher": "MS",
+        "teacherName": "Lukáš Masopust",
+        "subject": "WA",
+        "subjectName": "Webové aplikace",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "7": [
+      {
+        "room": "8a",
+        "teacher": "MO",
+        "teacherName": "Jan Molič",
+        "subject": "PSS",
+        "subjectName": "Počítačové systémy a sítě",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19b",
+        "teacher": "MS",
+        "teacherName": "Lukáš Masopust",
+        "subject": "WA",
+        "subjectName": "Webové aplikace",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "8": [
+      {
+        "room": "28",
+        "teacher": "MO",
+        "teacherName": "Jan Molič",
+        "subject": "PSS",
+        "subjectName": "Počítačové systémy a sítě",
+        "class": "C3c"
+      }
+    ],
+    "9": [],
+    "10": []
+  },
+  "St": {
+    "1": [
+      {
+        "room": "19b",
+        "teacher": "BD",
+        "teacherName": "Jaroslav Benda",
+        "subject": "CIT",
+        "subjectName": "Cvičení ze správy IT",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "L1",
+        "teacher": "SV",
+        "teacherName": "Jan Šváb",
+        "subject": "CIT",
+        "subjectName": "Cvičení ze správy IT",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "2": [
+      {
+        "room": "19b",
+        "teacher": "BD",
+        "teacherName": "Jaroslav Benda",
+        "subject": "CIT",
+        "subjectName": "Cvičení ze správy IT",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "L1",
+        "teacher": "SV",
+        "teacherName": "Jan Šváb",
+        "subject": "CIT",
+        "subjectName": "Cvičení ze správy IT",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "3": [
+      {
+        "room": "28",
+        "teacher": "NG",
+        "teacherName": "Eva Neugebauerová",
+        "subject": "M",
+        "subjectName": "Matematika",
+        "class": "C3c"
+      }
+    ],
+    "4": [
+      {
+        "room": "5b",
+        "teacher": "KN",
+        "teacherName": "Marie Kmoníčková",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "2/2"
+      },
+      {
+        "room": "5a",
+        "teacher": "HS",
+        "teacherName": "Simona Hemžalová",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "1/2"
+      }
+    ],
+    "5": [
+      {
+        "room": "28",
+        "teacher": "BC",
+        "teacherName": "Lucie Brčáková",
+        "subject": "EK",
+        "subjectName": "Ekonomika",
+        "class": "C3c"
+      }
+    ],
+    "6": [
+      {
+        "room": "28",
+        "teacher": "KA",
+        "teacherName": "Ivana Kantnerová",
+        "subject": "DS",
+        "subjectName": "Databázové systémy",
+        "class": "C3c"
+      }
+    ],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "Čt": {
+    "1": [],
+    "2": [
+      {
+        "room": "28",
+        "teacher": "BC",
+        "teacherName": "Lucie Brčáková",
+        "subject": "EK",
+        "subjectName": "Ekonomika",
+        "class": "C3c"
+      }
+    ],
+    "3": [
+      {
+        "room": "28",
+        "teacher": "HE",
+        "teacherName": "Jan Hehl",
+        "subject": "C",
+        "subjectName": "Český jazyk a literatura",
+        "class": "C3c"
+      }
+    ],
+    "4": [
+      {
+        "room": "TV",
+        "teacher": "KU",
+        "teacherName": "Dušan Kuchařík",
+        "subject": "TV",
+        "subjectName": "Tělesná výchova",
+        "class": "C3c"
+      }
+    ],
+    "5": [
+      {
+        "room": "28",
+        "teacher": "NG",
+        "teacherName": "Eva Neugebauerová",
+        "subject": "M",
+        "subjectName": "Matematika",
+        "class": "C3c"
+      }
+    ],
+    "6": [],
+    "7": [
+      {
+        "room": "5a",
+        "teacher": "KN",
+        "teacherName": "Marie Kmoníčková",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "2/2"
+      },
+      {
+        "room": "28",
+        "teacher": "HS",
+        "teacherName": "Simona Hemžalová",
+        "subject": "A",
+        "subjectName": "Anglický jazyk",
+        "class": "C3c",
+        "group": "1/2"
+      }
+    ],
+    "8": [
+      {
+        "room": "19a",
+        "teacher": "VM",
+        "teacherName": "Martin Váňa",
+        "subject": "MVH",
+        "subjectName": "Multimédia a vývoj her",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19b",
+        "teacher": "PP",
+        "teacherName": "Adam Papula",
+        "subject": "MVH",
+        "subjectName": "Multimédia a vývoj her",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "9": [
+      {
+        "room": "19a",
+        "teacher": "VM",
+        "teacherName": "Martin Váňa",
+        "subject": "MVH",
+        "subjectName": "Multimédia a vývoj her",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "19b",
+        "teacher": "PP",
+        "teacherName": "Adam Papula",
+        "subject": "MVH",
+        "subjectName": "Multimédia a vývoj her",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "10": []
+  },
+  "Pa": {
+    "1": [
+      {
+        "room": "18a",
+        "teacher": "RE",
+        "teacherName": "Alena Reichlová",
+        "subject": "PV",
+        "subjectName": "Programové vybavení",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "18b",
+        "teacher": "WE",
+        "teacherName": "David Weber",
+        "subject": "PV",
+        "subjectName": "Programové vybavení",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "2": [
+      {
+        "room": "18a",
+        "teacher": "RE",
+        "teacherName": "Alena Reichlová",
+        "subject": "PV",
+        "subjectName": "Programové vybavení",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "18b",
+        "teacher": "WE",
+        "teacherName": "David Weber",
+        "subject": "PV",
+        "subjectName": "Programové vybavení",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "3": [
+      {
+        "room": "28",
+        "teacher": "NG",
+        "teacherName": "Eva Neugebauerová",
+        "subject": "M",
+        "subjectName": "Matematika",
+        "class": "C3c"
+      }
+    ],
+    "4": [
+      {
+        "room": "19c",
+        "teacher": "KA",
+        "teacherName": "Ivana Kantnerová",
+        "subject": "DS",
+        "subjectName": "Databázové systémy",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "8a",
+        "teacher": "MS",
+        "teacherName": "Lukáš Masopust",
+        "subject": "PSS",
+        "subjectName": "Počítačové systémy a sítě",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "5": [
+      {
+        "room": "19c",
+        "teacher": "KA",
+        "teacherName": "Ivana Kantnerová",
+        "subject": "DS",
+        "subjectName": "Databázové systémy",
+        "class": "C3c",
+        "group": "1/2"
+      },
+      {
+        "room": "8a",
+        "teacher": "MS",
+        "teacherName": "Lukáš Masopust",
+        "subject": "PSS",
+        "subjectName": "Počítačové systémy a sítě",
+        "class": "C3c",
+        "group": "2/2"
+      }
+    ],
+    "6": [
+      {
+        "room": "28",
+        "teacher": "HE",
+        "teacherName": "Jan Hehl",
+        "subject": "C",
+        "subjectName": "Český jazyk a literatura",
+        "class": "C3c"
+      }
+    ],
+    "7": [
+      {
+        "room": "28",
+        "teacher": "WE",
+        "teacherName": "David Weber",
+        "subject": "TI",
+        "subjectName": "Teoretická informatika",
+        "class": "C3c"
+      }
+    ],
+    "8": [],
+    "9": [],
+    "10": []
+  }
+}
